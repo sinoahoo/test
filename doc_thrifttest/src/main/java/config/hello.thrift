@@ -18,3 +18,6 @@ struct StringMsg{
 service ThriftService {    
     int add(1:int a,2:int b),  
 }
+
+adfasdfafafasdfasdfwefasdf
+asdfasdfasdfasdfasdfasdfsa
