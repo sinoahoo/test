@@ -10,6 +10,10 @@ struct AgentSubscribeV26Msg {
     7:  optional string agent400PhoneExt,
     8:  optional string agentPortrait
 } 
+
+struct aaaa{
+	1: required i64 agentId
+}
 struct StringMsg{
 	1: string firstName,
 	2: string lastName,
@@ -18,3 +22,6 @@ struct StringMsg{
 service ThriftService {    
     int add(1:int a,2:int b),  
 }
+
+sdfasdfasfasfasfafda
+asdfeefasdfa
